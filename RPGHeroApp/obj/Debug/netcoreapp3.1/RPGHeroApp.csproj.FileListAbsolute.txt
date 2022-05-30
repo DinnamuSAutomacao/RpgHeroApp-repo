@@ -1,0 +1,13 @@
+C:\Users\Mobster 91\source\repos\RPGHeroApp\RPGHeroApp\bin\Debug\netcoreapp3.1\RPGHeroApp.exe
+C:\Users\Mobster 91\source\repos\RPGHeroApp\RPGHeroApp\bin\Debug\netcoreapp3.1\RPGHeroApp.deps.json
+C:\Users\Mobster 91\source\repos\RPGHeroApp\RPGHeroApp\bin\Debug\netcoreapp3.1\RPGHeroApp.runtimeconfig.json
+C:\Users\Mobster 91\source\repos\RPGHeroApp\RPGHeroApp\bin\Debug\netcoreapp3.1\RPGHeroApp.runtimeconfig.dev.json
+C:\Users\Mobster 91\source\repos\RPGHeroApp\RPGHeroApp\bin\Debug\netcoreapp3.1\RPGHeroApp.dll
+C:\Users\Mobster 91\source\repos\RPGHeroApp\RPGHeroApp\bin\Debug\netcoreapp3.1\RPGHeroApp.pdb
+C:\Users\Mobster 91\source\repos\RPGHeroApp\RPGHeroApp\obj\Debug\netcoreapp3.1\RPGHeroApp.csproj.AssemblyReference.cache
+C:\Users\Mobster 91\source\repos\RPGHeroApp\RPGHeroApp\obj\Debug\netcoreapp3.1\RPGHeroApp.AssemblyInfoInputs.cache
+C:\Users\Mobster 91\source\repos\RPGHeroApp\RPGHeroApp\obj\Debug\netcoreapp3.1\RPGHeroApp.AssemblyInfo.cs
+C:\Users\Mobster 91\source\repos\RPGHeroApp\RPGHeroApp\obj\Debug\netcoreapp3.1\RPGHeroApp.csproj.CoreCompileInputs.cache
+C:\Users\Mobster 91\source\repos\RPGHeroApp\RPGHeroApp\obj\Debug\netcoreapp3.1\RPGHeroApp.dll
+C:\Users\Mobster 91\source\repos\RPGHeroApp\RPGHeroApp\obj\Debug\netcoreapp3.1\RPGHeroApp.pdb
+C:\Users\Mobster 91\source\repos\RPGHeroApp\RPGHeroApp\obj\Debug\netcoreapp3.1\RPGHeroApp.genruntimeconfig.cache

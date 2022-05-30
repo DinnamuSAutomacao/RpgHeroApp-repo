@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3H+rfz+UwrHoWgNKAQIDb28k3Agi3j71qKXaj5pFjABYE0BN8vFol7O26shYickv+GzW13Dqs1XmXqe/nY/9VQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mobster 91\\source\\repos\\RPGHeroApp\\RPGHeroApp\\RPGHeroApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mobster 91\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
