@@ -18,5 +18,10 @@ namespace RPGHeroApp.Entities
         {
             return $"{this.Name} lançou sua magia!";
         }
+
+        public string Attack(int bonus)
+        {
+            return $"{this.Name} lançou sua magia com bonus de {bonus}!";
+        }
     }
 }
