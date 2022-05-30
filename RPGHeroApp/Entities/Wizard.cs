@@ -21,6 +21,11 @@ namespace RPGHeroApp.Entities
 
         public string Attack(int bonus)
         {
+            if (bonus > 6)
+            {
+                return $"{this.Name} lançou sua magia com SUPER bonus de {bonus}!";
+            }
+
             return $"{this.Name} lançou sua magia com bonus de {bonus}!";
         }
     }
